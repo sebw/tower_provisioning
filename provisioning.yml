@@ -1,0 +1,9 @@
+---
+- name: provisioning
+  hosts: localhost
+  gather_facts: false
+
+  tasks:
+  - name: do something
+    debug:
+      msg: something
