@@ -3,6 +3,9 @@
   hosts: localhost
   gather_facts: false
 
+  roles:
+  - monitoring
+
   tasks:
   - name: do something
     debug:
