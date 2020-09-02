@@ -1,3 +1,3 @@
 - src: https://github.com/sebw/tower_monitoring
-  version: v2.0
+  version: v1.0
   name: monitoring
